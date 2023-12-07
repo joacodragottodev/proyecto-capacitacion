@@ -1,0 +1,4 @@
+Receta 1:
+	Pan
+	Azucar
+	Manteca
