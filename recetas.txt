@@ -2,3 +2,6 @@ Receta 1:
 	Pan
 	Azucar
 	Manteca
+Receta 2:
+	Manzana
+	Almibar
