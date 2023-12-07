@@ -4,4 +4,4 @@ Receta 1:
 	Manteca
 Receta 2:
 	Manzana
-	Almibar
+	Miel suave
